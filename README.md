@@ -2,6 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iremsalgar&theme=android-dark&locale=tr)](https://git.io/streak-stats)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=iremsalgar&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=iremsalgar&show_icons=true&theme=android-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremsalgar&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
