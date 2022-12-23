@@ -1,5 +1,7 @@
 ### İremSudeSalgar 👋
 
+[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<isalgar>)](https://github.com/oakoudad/badge42)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=iremsalgar&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=iremsalgar&show_icons=true&theme=highcontrast)
