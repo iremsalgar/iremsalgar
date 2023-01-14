@@ -12,12 +12,21 @@
 
 
 [![isalgar's 42 Libft Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2449958)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2503727)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2557757)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2513891)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 minitalk Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2612545)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 so_long Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2631057)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 push_swap Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2642320)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2647970)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2922304)](https://github.com/JaeSeoKim/badge42)
+
 [![isalgar's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2933315)](https://github.com/JaeSeoKim/badge42)
