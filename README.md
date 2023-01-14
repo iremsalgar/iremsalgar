@@ -13,7 +13,7 @@
 
 [isalgar's 42 Libft Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2449958)
 
-[![isalgar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2503727)]
+![isalgar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2503727)
 
 [![isalgar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2557757)]
 
