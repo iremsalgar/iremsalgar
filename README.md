@@ -26,5 +26,6 @@
 | 9  | philosophers    | [![isalgar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2922304)](https://github.com/iremsalgar/42_Philoshophers) 
 | 10 | minishell       | ![isalgar's 42 minishell Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2922305)
 | 11 | Exam Rank03     | ![isalgar's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2933315)
-  
-  </div>
+| 12 | Netpractice     | ![isalgar's Netpractice Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2933315)
+| 13 | Exam Rank04     | ![isalgar's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2933315)
+</div>
