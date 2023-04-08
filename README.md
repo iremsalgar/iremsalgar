@@ -11,21 +11,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=iremsalgar&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=iremsalgar&show_icons=true&theme=highcontrast)
-
-## Ecole 42 Projects Progress
-| No | Project | Status  |  
-| :---:  | :---:   | :---:  |
-| 1  | libft           | [![isalgar's 42 Libft Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2449958)](https://github.com/iremsalgar/42_Libft) 
-| 2  | born2beroot     | ![isalgar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2557757)
-| 3  | ft_printf       | [![isalgar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2503727)](https://github.com/iremsalgar/42_Printf) 
-| 4  | get_next_line   | [![isalgar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2513891)](https://github.com/iremsalgar/42_Get_Next_Line)
-| 5  | minitalk        | [![isalgar's 42 minitalk Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2612545)](https://github.com/iremsalgar/42_Minitalk) 
-| 6  | so_long         | [![isalgar's 42 so_long Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2631057)](https://github.com/iremsalgar/42_So_Long)
-| 7  | push_swap       | [![isalgar's 42 push_swap Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2642320)](https://github.com/iremsalgar/42_Push_Swap)
-| 8  | Exam Rank02     | ![isalgar's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2647970)
-| 9  | philosophers    | [![isalgar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2922304)](https://github.com/iremsalgar/42_Philoshophers) 
-| 10 | minishell       | ![isalgar's 42 minishell Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2922305)
-| 11 | Exam Rank03     | ![isalgar's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2933315)
-| 12 | Netpractice     | ![isalgar's Netpractice Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2933315)
-| 13 | Exam Rank04     | ![isalgar's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clc0q63z400060fidqtb7rlqe/project/2933315)
-</div>
